@@ -1,4 +1,4 @@
-Download all the file first and then put it ALL in one folder, After that you're done.
+Download the .zip file and extract it to its folder.
  
  !note! Open the portfolio file first. enjoy!
 
